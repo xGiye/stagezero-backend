@@ -24,7 +24,7 @@ A Django REST API endpoint `/me` that returns profile info and a random cat fact
 ## Running Locally
 
 ```
-git clone https://github.com/<your-username>/stagezero_backend.git
+git clone https://github.com/xGiye/stagezero-backend.git
 cd stagezero_backend
 pip install -r requirements.txt
 ```
@@ -38,7 +38,7 @@ USER_STACK=Your stack
 ```
 python manage.py runserver
 ```
-```Visit: http://127.0.0.1:8000/me ```
+```Visit: http://127.0.0.1:8000/me```
 
 
 ## Deployment
